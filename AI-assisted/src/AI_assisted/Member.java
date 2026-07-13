@@ -1,4 +1,4 @@
 package AI_assisted;
 
-public class Memeber {
+public class Member {
 }
