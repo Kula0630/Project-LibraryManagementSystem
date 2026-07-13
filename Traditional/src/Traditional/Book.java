@@ -10,8 +10,7 @@ public class Book {
     private String category;
 
     // Constructor
-    public Book(String bookId, String title, String author, String isbn,
-                int year, String category) {
+    public Book(String bookId, String title, String author, String isbn, int year, String category) {
         this.bookId = bookId;
         this.title = title;
         this.author = author;
